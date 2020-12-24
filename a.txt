@@ -8,3 +8,27 @@ if empty you don't need to search
 
 this kind of array called "hashtable"
 
+A[h(5)].get(5)
+first search array, then search the LinkedList
+
+///////////////////////////////13:56 2020/12/24
+Collision handling->link
+
+Seperate chaining ->easist
+
+# but it wast space
+
+=>Linear Probing
+if collision, put it in next space
+
+ex:get(39), %N first and search along until the first empty room
+
+but it collides frequently
+
+=>double hashing
+d(k):7-(k mod 7)
+ex:7-(21%7)=7
+
+jump 7
+
+

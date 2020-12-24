@@ -1,2 +1,10 @@
-vvv
-asdfg
+a
+map 
+array
+key to index(hash function)
+k%N 
+every position is a linkedlist 
+if empty you don't need to search
+
+this kind of array called "hashtable"
+
